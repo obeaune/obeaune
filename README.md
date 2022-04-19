@@ -1,10 +1,6 @@
 <h1 align="center">Hi there, welcome!</h1>
 <h3 align="center">My name is Ana and I'm a developer from Brazil.</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
 ## <p align="center">Tools</p>
 
 ### Programming Languages
