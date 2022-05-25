@@ -3,7 +3,7 @@
 <br>
 
 - 👨‍💻 Currently studying web development at [Trybe](https://www.betrybe.com/).
-- 🔭 At this moment I’m working on my portfolio.
+- 🔭 At this moment I'm learning backend development.
 - 💬 Ask me anything about cinema and I will be very happy to continue this conversation.
 - 🌱 If you want help with something, you can count on me.
 
