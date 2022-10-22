@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, welcome!</h1>
-<h3 align="center">My name is Ana and I'm a developer from Brazil. I work and believe in generating a positive impact on people's lives by merging my experience in communication, being a multidisciplinary tutor, with my new knowledge in programming.</h3>
+<h4 align="center">My name is Ana and I'm a developer from Brazil. I work and believe in generating a positive impact on people's lives by merging my experience in communication, being a multidisciplinary tutor, with my new knowledge in programming.</h4>
 <br>
 
 - 👨‍💻 Currently studying web development at [Trybe](https://www.betrybe.com/).
@@ -59,7 +59,7 @@
 </p>
 
 
-<br><br>
+<br>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=obeaune&show_icons=true&locale=en&layout=compact" alt="obeaune" />
