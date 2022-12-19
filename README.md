@@ -2,7 +2,6 @@
 <h4 align="center">My name is Ana and I'm a full-stack developer from Brazil. I work and believe in generating a positive impact on people's lives by merging my experience in communication, being a multidisciplinary tutor, with my new knowledge in programming.</h4>
 <br>
 
-- 👨‍💻 Currently studying web development at [Trybe](https://www.betrybe.com/).
 - 🔭 Developing software applications with Node.js, TypeScript, MySQL, MongoDB, React.
 - 🌱 Very interested in design patterns and architecture styles.
 - 💬 Ask me anything about cinema and I will be very happy to continue this conversation.
